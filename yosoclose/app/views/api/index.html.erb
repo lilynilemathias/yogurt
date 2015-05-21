@@ -1,0 +1,12 @@
+Here are your results!!!
+
+		<ul>
+			<% @list_of_locations.each do |shop| %>
+					<li>
+						<%= shop.name %>
+						, <%= shop.location.display_address.join(" ") %>
+					</li>
+			<% end %>
+		</ul>
+
+		

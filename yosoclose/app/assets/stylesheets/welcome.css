@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+	background-image: url(frozen-yogurt.jpg);
+	background-size: 2500px;
+	background-color: cornsilk;
+
+}
+
+
+ul{
+	list-style-type: none;
+}
+/*input{
+	height: 40px;
+	width:  150px;
+}
+
+
+*/
